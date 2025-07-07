@@ -9,6 +9,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "express": "^5.1.0",
+    "joi": "^17.13.3",
     "underscore": "^1.13.7"
   }
 }
